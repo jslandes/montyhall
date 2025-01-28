@@ -1,0 +1,13 @@
+Package: montyhall
+Title: Play Monty Hall Problem Games
+Version: 0.0.0.9000
+Authors@R: 
+    person("Jazzy", "Landes", role = c("aut", "cre"), email = "jslandes@asu.edu", 
+           comment = c(ORCID = "0000-0002-7050-3936"))
+Description: Replicates the game on the TV show "Let's Make a Deal" and tests which strategy is optimal: to stay or to switch doors?
+Depends: 
+    dplyr
+License: use_mit_license()
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
